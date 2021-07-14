@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JEE02.iml" filepath="$PROJECT_DIR$/JEE02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JEE03/JEE03.iml" filepath="$PROJECT_DIR$/../JEE03/JEE03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cookie/cookie.iml" filepath="$PROJECT_DIR$/../cookie/cookie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../filter_demo/filter_demo.iml" filepath="$PROJECT_DIR$/../filter_demo/filter_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jsp_demo/jsp_demo.iml" filepath="$PROJECT_DIR$/../jsp_demo/jsp_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../listener_demo/listener_demo.iml" filepath="$PROJECT_DIR$/../listener_demo/listener_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../reponse_demo/reponse_demo.iml" filepath="$PROJECT_DIR$/../reponse_demo/reponse_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../reqresp_test/reqresp_test.iml" filepath="$PROJECT_DIR$/../reqresp_test/reqresp_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../request_demo/request_demo.iml" filepath="$PROJECT_DIR$/../request_demo/request_demo.iml" />
+    </modules>
+  </component>
+</project>

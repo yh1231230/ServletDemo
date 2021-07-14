@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="reponse_demo" />
+        <module name="listener_demo" />
+        <module name="request_demo" />
+        <module name="cookie" />
+        <module name="filter_demo" />
+        <module name="jsp_demo" />
+        <module name="JEE03" />
+        <module name="reqresp_test" />
+        <module name="JEE02" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cookie" target="1.8" />
+      <module name="filter" target="1.8" />
+      <module name="filter_demo" target="1.8" />
+      <module name="JEE02" target="1.8" />
+      <module name="JEE03" target="1.8" />
+      <module name="jsp_demo" target="1.8" />
+      <module name="listener" target="1.8" />
+      <module name="listener_demo" target="1.8" />
+      <module name="reponse_demo" target="1.8" />
+      <module name="reqresp_test" target="1.8" />
+      <module name="request_demo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
